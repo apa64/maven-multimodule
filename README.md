@@ -11,6 +11,18 @@ Boilerplate for a multi-module Maven project.
 - JDK 11
 - Maven 3.6
 
+### Build
+
+```shell
+mvn clean install
+```
+
+### Run
+
+```shell
+java -jar core/target/multimodule-core.jar
+```
+
 ## Tools
 
 - set project version: `mvn versions:set -DnewVersion=1.2-SNAPSHOT`
