@@ -1,16 +1,12 @@
-package com.apa.multimodule;
+package com.apa.multimodule.core;
 
 import static org.junit.Assert.assertTrue;
-
 import org.junit.Test;
 
 /**
- * Unit test for simple Service.
+ * Unit test for simple App.
  */
-public class ServiceTest {
-    /**
-     * Rigorous Test :-)
-     */
+public class AppTest {
     @Test
     public void shouldAnswerWithTrue() {
         assertTrue(true);

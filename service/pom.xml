@@ -9,8 +9,6 @@
 
   <artifactId>service</artifactId>
 
-  <properties></properties>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
